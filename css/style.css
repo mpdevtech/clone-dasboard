@@ -1,0 +1,76 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'Inter' Arial, Helvetica, sans-serif;
+
+}
+body {
+   background-color: #FDFDFD;
+   /* overflow: hidden; */
+}
+
+
+/* .row {
+   height: 100vh;
+} */
+.card {
+   border: none;
+}
+.bg-height {
+   height: 100px;
+}
+.navbar {
+   height: 100px;
+}
+.text-link:hover {
+   box-shadow: 0 0 30px #ccc;
+   border-radius: 10px;
+}
+.perfil-foto {
+   width: 50px;
+   border-radius: 50px;
+}
+.nome {
+   font-size: 1rem;
+}
+.work {
+   font-size: .8rem;
+}
+.product {
+   font-size: .6rem;
+}
+.img-card {
+   width: 100%;
+   border-radius: 20px;
+}
+.container-cards {
+   height: 100vh;
+}
+.img-sm {
+   width: 30px;
+   border: 2px solid #ccc;
+}
+
+.imagens-sm {
+   position: relative;
+}
+.recuo {
+   position: absolute;
+   left: 20px;
+}
+.recuo-two {
+   position: absolute;
+   left: 40px;
+}
+.recuo-three {
+   width: 30px;
+   height: 30px;
+   background-color: #ccc;
+   color: #FDFDFD;
+   position: absolute;
+   left: 60px;
+}
+.card-text {
+   font-size: .8rem;
+}
